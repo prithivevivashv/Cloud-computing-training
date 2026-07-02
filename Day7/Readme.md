@@ -1,4 +1,4 @@
-# Day 6 - Jenkins CI/CD Pipeline with Docker Deployment
+# Day 7 - Jenkins CI/CD Pipeline with Docker Deployment
 
 ## Project Objective
 The objective of this project is to automate the deployment of a Flask Hospital application using Jenkins CI/CD, Docker, Docker Hub, GitHub, and AWS EC2.
